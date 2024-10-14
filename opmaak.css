@@ -5,6 +5,7 @@
     width: 33.3333%;
     padding: 10px;
     float: left;
+    text-align: center;
 }
 img{
     width: 25%;
@@ -21,4 +22,12 @@ a.list{
     text-decoration: none;
     color: white;
     font-size: 14pt;
+}
+a#sign-in{
+    text-decoration: none;
+    border-radius: 20px;
+    background-color: red;
+    color: black;
+    font-size: 14pt;
+    padding: 10px;
 }

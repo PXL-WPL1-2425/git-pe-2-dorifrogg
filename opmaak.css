@@ -9,4 +9,16 @@
 img{
     width: 25%;
     height: auto;
+    display: block;
+    margin: auto;
+}
+li{
+    color: white;
+    display: inline;
+    padding: 20px;
+}
+a.list{
+    text-decoration: none;
+    color: white;
+    font-size: 14pt;
 }

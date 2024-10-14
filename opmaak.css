@@ -1,5 +1,12 @@
+* {
+    box-sizing: border-box;
+}
 .column{
-    float: left;
     width: 33.3333%;
     padding: 10px;
+    float: left;
+}
+img{
+    width: 25%;
+    height: auto;
 }
